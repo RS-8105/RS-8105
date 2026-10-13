@@ -1,81 +1,176 @@
-# Hi, I'm a Computer Engineering Student 👋
+::: {align="center"}
+`<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:161B33,50:343A73,100:7AA2F7&text=Rushikesh%20Somani&fontSize=42&fontColor=C0CAF5&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Software%20Developer&descAlignY=58&descSize=16" width="100%" />`{=html}
 
-I'm interested in software development, problem-solving, and building practical applications. I enjoy working across the stack, exploring backend systems, and learning how to design reliable applications.
+`<a href="https://github.com/RS-8105">`{=html}
+`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+Full-Stack+Applications;Exploring+Backend+Engineering;Solving+Problems+with+Code;Learning+by+Building+Real+Projects" alt="Typing SVG" />`{=html}
+`</a>`{=html}
 
-- Currently strengthening my Data Structures and Algorithms skills
-- Building full-stack applications and exploring data-driven systems
-- Interested in backend development, system design, and scalable applications
+```{=html}
+<p>
+```
+`<a href="https://github.com/RS-8105">`{=html}`<img src="https://img.shields.io/badge/GitHub-Profile-1A1B27?style=for-the-badge&logo=github&logoColor=C0CAF5" />`{=html}`</a>`{=html}
+`<a href="https://github.com/RS-8105?tab=repositories">`{=html}`<img src="https://img.shields.io/badge/Repositories-Explore-1A1B27?style=for-the-badge&logo=git&logoColor=7AA2F7" />`{=html}`</a>`{=html}
+```{=html}
+</p>
+```
+:::
 
-## Tech Stack
+------------------------------------------------------------------------
 
-**Languages**
-- Java
-- C++
-- Python
-- JavaScript
-- SQL
+## `whoami` --- About Me
 
-**Frontend**
-- React
-- HTML
-- CSS
-- Bootstrap
+I'm a Computer Engineering student interested in building practical
+software, developing reliable backend systems, and solving problems
+through code.
 
-**Backend**
-- Spring Boot
-- Spring Security
-- REST APIs
-- JWT Authentication
-- JPA / Hibernate
+-   Building full-stack applications with React and Spring Boot.
+-   Exploring API design, authentication, databases, and concurrency.
+-   Strengthening Data Structures and Algorithms.
+-   Learning by designing, implementing, testing, and deploying
+    projects.
 
-**Databases**
-- PostgreSQL
-- MySQL
-- MongoDB
-- Redis
+------------------------------------------------------------------------
 
-**Tools & Platforms**
-- Git & GitHub
-- Docker
-- Maven
-- Postman
-- Swagger
-- AWS
+## `tech_stack` --- Tools I Work With
 
-## Featured Projects
+::: {align="center"}
+### Languages
 
-### 1. SeatFlow — Event Ticket Booking System
+`<img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css&theme=dark" alt="Programming languages" />`{=html}
 
-A full-stack ticket booking application with temporary seat reservations and concurrency-safe booking operations.
+### Frameworks & Backend
 
-**Tech:** React, Spring Boot, PostgreSQL, Redis, JWT, Server-Sent Events
+`<img src="https://skillicons.dev/icons?i=react,spring,hibernate&theme=dark" alt="Frameworks" />`{=html}
 
-- Implemented temporary seat holds using Redis.
-- Used atomic operations to help prevent conflicting seat reservations.
-- Implemented JWT-based authentication and real-time updates.
-- Added backend tests and deployed the frontend and backend.
+### Databases & Infrastructure
 
-**Links:** [Live Application](https://seat-flow-peach.vercel.app/) · [GitHub Repository](https://github.com/RS-8105/SeatFlow)
+`<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,git,github,postman&theme=dark" alt="Databases and developer tools" />`{=html}
+:::
 
-### 2. Smart Solar Power Forecasting
+------------------------------------------------------------------------
 
-An IoT-based project focused on forecasting solar power generation and optimizing energy utilization.
+## `featured_projects` --- Things I've Built
 
-**Focus:** Machine Learning, IoT, Data Analytics, Kafka, Spark
+```{=html}
+<table>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+### 🎟️ SeatFlow
 
-- Working with solar energy datasets and forecasting models.
-- Exploring real-time data pipelines and energy monitoring.
-- Developing the project incrementally.
+**Full-Stack Event Ticket Booking System**
 
-## Core Concepts
+A ticket-booking application focused on seat availability and
+concurrency-safe reservations.
 
-- Data Structures and Algorithms
-- Object-Oriented Programming
-- Database Management Systems
-- Operating Systems
-- Computer Networks
-- REST API Development
+-   Redis-based temporary seat holds
+-   Atomic multi-seat reservation operations
+-   JWT authentication
+-   Real-time updates using SSE and Redis Pub/Sub
+-   Automated backend tests
 
-## Connect With Me
+**Stack:** React · Spring Boot · PostgreSQL · Redis
 
-- GitHub: [@RS-8105](https://github.com/RS-8105)
+[![Live
+Demo](https://img.shields.io/badge/Live_Demo-7AA2F7?style=flat-square&logo=vercel&logoColor=white)](https://seat-flow-peach.vercel.app/)
+[![Repository](https://img.shields.io/badge/Source_Code-1A1B27?style=flat-square&logo=github&logoColor=white)](https://github.com/RS-8105/SeatFlow)
+
+```{=html}
+</td>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+### 🤖 Resume & Skill Gap Analyzer
+
+**AI-Assisted Resume Analysis**
+
+A project focused on analyzing resumes against job descriptions and
+identifying skill gaps.
+
+-   Resume and job-description analysis
+-   NLP-powered processing
+-   AI-assisted insights
+
+**Stack:** React · Spring Boot · FastAPI · LLM APIs
+
+[![Repository](https://img.shields.io/badge/Explore_Repository-1A1B27?style=flat-square&logo=github&logoColor=white)](https://github.com/RS-8105/resume-and-skill-gap-analyzer)
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+### ⚙️ Task Manager API
+
+Backend project focused on task management and API development.
+
+[![Repository](https://img.shields.io/badge/Explore_Repository-1A1B27?style=flat-square&logo=github&logoColor=white)](https://github.com/RS-8105/task-manager-api)
+
+```{=html}
+</td>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+### 🛒 E-Commerce Backend
+
+Backend project focused on e-commerce application functionality.
+
+[![Repository](https://img.shields.io/badge/Explore_Repository-1A1B27?style=flat-square&logo=github&logoColor=white)](https://github.com/RS-8105/e-commerce-backend)
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</table>
+```
+
+------------------------------------------------------------------------
+
+## `github_analytics` --- GitHub at a Glance
+
+::: {align="center"}
+`<img height="165" src="https://github-readme-stats.vercel.app/api?username=RS-8105&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&rank_icon=github" alt="GitHub statistics" />`{=html}
+
+`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RS-8105&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=7AA2F7&text_color=C0CAF5" alt="Most used languages" />`{=html}
+
+`<img src="https://streak-stats.demolab.com?user=RS-8105&theme=tokyonight&hide_border=true&background=1A1B27&ring=7AA2F7&fire=BB9AF7&currStreakLabel=C0CAF5" alt="GitHub contribution streak" />`{=html}
+:::
+
+------------------------------------------------------------------------
+
+## `currently_focused_on`
+
+``` text
+> Data Structures & Algorithms
+> Backend Development
+> Database Design & Concurrency
+> Building and Deploying Full-Stack Projects
+```
+
+------------------------------------------------------------------------
+
+::: {align="center"}
+### Thanks for visiting!
+
+**Building one project at a time.**
+
+`<a href="https://github.com/RS-8105">`{=html}`<img src="https://img.shields.io/badge/Explore_My_Repositories-7AA2F7?style=for-the-badge&logo=github&logoColor=white" />`{=html}`</a>`{=html}
+
+`<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:7AA2F7,50:343A73,100:161B33" width="100%" />`{=html}
+:::
